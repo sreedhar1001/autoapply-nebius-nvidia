@@ -47,8 +47,8 @@ flowchart LR
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/sreedhar1001/automatically-job.applier.git
-cd automatically-job.applier
+git clone https://github.com/sreedhar1001/autoapply-nebius-nvidia.git
+cd autoapply-nebius-nvidia
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
