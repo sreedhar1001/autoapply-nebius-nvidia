@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Secrets & environment variables
+.env
+
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+
+# Local scratch prompt files
+gemini-code-*
+
+# OS files
+.DS_Store
+Thumbs.db
